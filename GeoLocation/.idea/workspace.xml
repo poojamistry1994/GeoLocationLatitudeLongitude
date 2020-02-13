@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="456f28a8-1eae-4304-8f42-ba9bbc1cdcfb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GeoLocation" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GeoLocation" type="f1a62948:ProjectNode" />
+                <item name="GeoLocation" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="GeoLocation" type="f1a62948:ProjectNode" />
+                <item name="GeoLocation-build" type="2d1252cf:ModuleNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="GeoLocation" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XeBCOB9BhRqVLba09Xfor0Ydjl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/geo-search-spark-master/geo-search-spark-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PoojaMistry\IdeaProjects\GeoLocation\src\main\scala" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.test">
+    <configuration name="CleanUp" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="CleanUp" />
+      <module name="GeoLocation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="GeoLocation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Search" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Search" />
+      <module name="GeoLocation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="WordCount" />
+      <module name="GeoLocation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="GeoLocation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Search" />
+        <item itemvalue="Application.CleanUp" />
+        <item itemvalue="Application.WordCount" />
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="GeoLocation" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="geolocation [file:/C:/Users/PoojaMistry/IdeaProjects/GeoLocation/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="GeoLocation-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3162881389525" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="2294292120" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1244562550" />
+      </map>
+    </option>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="typeMismatchHints" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="456f28a8-1eae-4304-8f42-ba9bbc1cdcfb" name="Default Changelist" comment="" />
+      <created>1581396552991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581396552991</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="0" key="#Notifications" timestamp="1581403438025">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1581403438025" />
+    <state x="371" y="97" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1581433752761">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="97" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1581433752761" />
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581487572531">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1581487572531" />
+    <state x="458" y="259" width="379" height="170" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1581398279214">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="458" y="259" width="379" height="170" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1280.680@0.0.1280.680" timestamp="1581398279214" />
+    <state x="370" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581487571493">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="370" y="125" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1581487571493" />
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581439485111">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="89" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1581439485111" />
+    <state x="399" y="197" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581398645058">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="399" y="197" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1581398645058" />
+    <state x="392" y="86" key="FileChooserDialogImpl" timestamp="1581488420547">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="392" y="86" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1581488420547" />
+    <state width="1237" height="218" key="GridCell.Tab.0.bottom" timestamp="1581497510593">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="218" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1581497510593" />
+    <state width="1237" height="218" key="GridCell.Tab.0.center" timestamp="1581497510593">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="218" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1581497510593" />
+    <state width="1237" height="218" key="GridCell.Tab.0.left" timestamp="1581497510592">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="218" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1581497510592" />
+    <state width="1237" height="218" key="GridCell.Tab.0.right" timestamp="1581497510593">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="218" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1581497510593" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1581485877026">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1581485877026" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1581436651586">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1581436651586" />
+    <state x="341" y="166" key="com.intellij.ide.util.TipDialog" timestamp="1581483147163">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="341" y="166" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1581483147163" />
+    <state x="0" y="0" width="609" height="680" key="find.popup" timestamp="1581426563084">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="0" y="0" width="609" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1581426563084" />
+    <state x="91" y="66" key="new project wizard" timestamp="1581497502439">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="66" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1581497502439" />
+  </component>
+</project>
